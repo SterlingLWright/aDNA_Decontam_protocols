@@ -6,3 +6,6 @@ This repository includes documents and scripts for the Farrer et al. 2021 paper
 
 The scripts included were either performed in a Unix environment (e.g. Mac OSX or Linux) and R. 
 
+## Data 
+
+The raw sequencing data for this project can be found on the NCBI website under the accession name: PRJNA688065
