@@ -1,0 +1,29 @@
+#SampleID	SampleName	SampleDescription	OralGeo
+8809_AndrewDecon_Group5_EDTA_EtOH_wash_Crushing	Jewbury8809	Group5-EDTA EtOH wash, Crushing	NA
+8810_AndrewDecon_Group5_EDTA_EtOH_wash_Crushing	Jewbury8810	Group5-EDTA EtOH wash, Crushing	NA
+8811_AndrewDecon_Group5_EDTA_EtOH_wash_Crushing	Jewbury8811	Group5-EDTA EtOH wash, Crushing	NA
+8813_AndrewDecon_Group1_EtOH_wash_Crushing	Jewbury8813	Group1-EtOH wash, Crushing	subgingival
+8816_AndrewDecon_Group1_EtOH_wash_Crushing	Jewbury8816	Group1-EtOH wash, Crushing	sub+supragingival
+8818_AndrewDecon_Group5_EDTA_EtOH_wash_Crushing	Jewbury8818	Group5-EDTA EtOH wash, Crushing	NA
+8819_AndrewDecon_Group1_EtOH_wash_Crushing	Jewbury8819	Group1-EtOH wash, Crushing	supragingival
+8820_AndrewDecon_Group2_UV_EtOH_wash_Crushing	Jewbury8820	Group2-UV, EtOH wash, Crushing	sub+supragingival
+8825_AndrewDecon_Group2_UV_EtOH_wash_Crushing	Jewbury8825	Group2-UV, EtOH wash, Crushing	sub+supragingival
+8826_AndrewDecon_Group5_EDTA_EtOH_wash_Crushing	Jewbury8826	Group5-EDTA EtOH wash, Crushing	NA
+8827_AndrewDecon_Group2_UV_EtOH_wash_Crushing	Jewbury8827	Group2-UV, EtOH wash, Crushing	sub+supragingival
+8829_AndrewDecon_Group3_Bleach_EtOH_wash_Crushing	Jewbury8829	Group3-Bleach, EtOH wash, Crushing	subgingival
+8831_AndrewDecon_Group3_Bleach_EtOH_wash_Crushing	Jewbury8831	Group3-Bleach, EtOH wash, Crushing	sub+supragingival
+8833_AndrewDecon_Group1_EtOH_wash_Crushing	Jewbury8833	Group1-EtOH wash, Crushing	NA
+8834_AndrewDecon_Group3_Bleach_EtOH_wash_Crushing	Jewbury8834	Group3-Bleach, EtOH wash, Crushing	supragingival
+8840_AndrewDecon_Group1_EtOH_wash_Crushing	Jewbury8840	Group1-EtOH wash, Crushing	NA
+8843_AndrewDecon_Group2_UV_EtOH_wash_Crushing	Jewbury8843	Group2-UV, EtOH wash, Crushing	NA
+8844_AndrewDecon_Group2_UV_EtOH_wash_Crushing	Jewbury8844	Group2-UV, EtOH wash, Crushing	NA
+8855_AndrewDecon_Group3_Bleach_EtOH_wash_Crushing	Jewbury8855	Group3-Bleach, EtOH wash, Crushing	NA
+8856_AndrewDecon_Group3_Bleach_EtOH_wash_Crushing	Jewbury8856	Group3-Bleach, EtOH wash, Crushing	NA
+8857_AndrewDecon_Group3_Bleach_EtOH_wash_Crushing	Jewbury8857	Group3-Bleach, EtOH wash, Crushing	NA
+NegativeControl_AndrewDecon	NegativeControl	NA	NA
+Jewbury8815	Jewbury8815	Group4_UV_bleach_EtOH_wash_Crushing	NA
+Jewbury8822	Jewbury8822	Group4_UV_bleach_EtOH_wash_Crushing	NA
+Jewbury8830	Jewbury8830	Group4_UV_bleach_EtOH_wash_Crushing	NA
+Jewbury8835	Jewbury8835	Group4_UV_bleach_EtOH_wash_Crushing	NA
+Jewbury8838	Jewbury8838	Group4_UV_bleach_EtOH_wash_Crushing	NA
+Jewbury8839	Jewbury8839	Group4_UV_bleach_EtOH_wash_Crushing	NA
