@@ -1,1 +1,1 @@
-This directory contains the file that was uploaded to the NCBI website 
+This directory contains the metadata file that was uploaded to the NCBI website 
